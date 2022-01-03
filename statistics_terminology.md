@@ -27,7 +27,7 @@ Can happen at the same time.
 ### p-value
 
 
-### Binomial distribution
+### Probability distributions: 1. Binomial distribution
 
 ### Hypothesis testing
 
@@ -43,6 +43,14 @@ Can happen at the same time.
 ### recall
 
 ### f1
+
+### descriptive statistics and inferential statistics
+The purpose of Descriptive Statistics is to provide a summary of the data and its properties
+Descriptive Statistics can take the form of simple metrics known as summary statistics (i.e. number of observations, minimum value, maximum value, mean, variance, etc.) or they can take the form of visualizations (i.e. histograms, scatterplots, pie charts, box plots, etc.)
+
+The purpose of Inferential Statistics is to make inferences about a population using a subset of the population known as a sample
+Inferential Statistics begin with a hypothesis about the population and then the sample is used to prove or disprove the hypoothesis, effectively inferring something about the population
+
 
 
 
