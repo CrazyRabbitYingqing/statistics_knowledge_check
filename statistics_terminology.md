@@ -23,3 +23,29 @@ Cannot happen at the same time, mutually exclusive.
 ### Non-Disjoint events
 
 Can happen at the same time.
+
+### p-value
+
+
+### Binomial distribution
+
+### Hypothesis testing
+
+
+### confidence interval
+
+### confusion matrix
+
+### Accuracy
+
+### precision
+
+### recall
+
+### f1
+
+
+
+
+
+
